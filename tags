@@ -1,0 +1,223 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/d5bcb52b/
+#dream-search	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	i
+#dream-search .ui.input	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+#dream-search.inverted	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+#dream-search.inverted .results	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+#dream-search.inverted .results .description	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+#dream-search.inverted .results .result:hover	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+#dream-search.inverted .results .title	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+#dream-search.inverted input	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	s
+- /img/cover.jpg	themes/hugo-theme-dream/archetypes/posts.md	/^#   - \/img\/cover.jpg$/;"	c
+.dream-404-container	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-404-container .ui.header	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-404-container .ui.header .sub.header	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-grid	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-header	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-header .dream-tags .ui.label	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-header .tags-with-dropdown .content	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-header .tags-with-dropdown .dropdown-icon	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-header .tags-with-dropdown .title	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-header .tags-with-dropdown .ui.list	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-header .ui.horizontal.list	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-header>.content	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-max-width	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-nav	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-scroll-to-top	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-share	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-share a	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	s
+.dream-single .cover	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-single .ui.inverted.segment blockquote	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	s
+.dream-single h1.ui.large.header	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-single h1.ui.large.header .sub.header	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.dream-single-aside	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.flip-container	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.flip-container .back	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.flip-container .flipper	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.flip-container .front	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.flip-container.flip-it .flipper	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.icon-mastodon:before	themes/hugo-theme-dream/static/css/icomoon.css	/^.icon-mastodon:before {$/;"	c
+.inverted a	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	s
+.inverted a:hover	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	s
+.toc li	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	s
+.toc ul	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	s
+.ui.card.dream-card .content .description	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.ui.card.dream-card .content .description iframe[id^=twitter-widget-]	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	s
+.ui.card.dream-card .content .description img	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	s
+.ui.card.dream-card .content .header	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.ui.card.dream-card .content .header a	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	s
+.ui.card.dream-card .content.no-cover	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.ui.card.dream-card .extra	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.ui.card.dream-card .extra .author	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.ui.card.dream-card .extra .reading-time	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.ui.card.dream-card.inverted .content .description	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.ui.card.dream-card.inverted .content .header>a	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.ui.card.dream-card.inverted .content .meta	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.ui.card.dream-card.inverted .extra	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.ui.card.dream-card>.image	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.ui.menu.dream-menu	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.ui.menu.dream-menu .item	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.ui.menu.dream-menu .item i	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	s
+.ui.menu.dream-menu.dream-socials	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.ui.menu.dream-menu.dream-socials .item:first-child	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+.utterances-comments .utterances	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	c
+@babel/core	themes/hugo-theme-dream/package.json	/^    "@babel\/core": "^7.13.15",$/;"	s	object:devDependencies
+@babel/preset-env	themes/hugo-theme-dream/package.json	/^    "@babel\/preset-env": "^7.13.15",$/;"	s	object:devDependencies
+About Page	themes/hugo-theme-dream/docs/about-page.md	/^# About Page$/;"	c
+Add "About Me"	themes/hugo-theme-dream/docs/quick-start.md	/^## Add "About Me"$/;"	s
+Advanced	themes/hugo-theme-dream/docs/params-configurations.md	/^## Advanced$/;"	s
+Base Configurations	themes/hugo-theme-dream/docs/base-configurations.md	/^# Base Configurations$/;"	c
+Basic	themes/hugo-theme-dream/docs/base-configurations.md	/^## Basic$/;"	s
+CSS	themes/hugo-theme-dream/docs/custom.md	/^## CSS$/;"	s
+Change dark mode color	themes/hugo-theme-dream/docs/custom.md	/^### Change dark mode color$/;"	S
+Changelog	themes/hugo-theme-dream/CHANGELOG.md	/^# Changelog$/;"	c
+Chinese	themes/hugo-theme-dream/README.md	/^### Chinese$/;"	S
+Copyright	themes/hugo-theme-dream/docs/copyright.md	/^# Copyright$/;"	c
+Custom TOC	themes/hugo-theme-dream/docs/custom.md	/^### Custom TOC$/;"	S
+Custom archives header	themes/hugo-theme-dream/docs/custom-archives-header.md	/^# Custom archives header$/;"	c
+Custom fonts	themes/hugo-theme-dream/docs/custom.md	/^### Custom fonts$/;"	S
+Custom masonry layouts' item	themes/hugo-theme-dream/docs/custom.md	/^### Custom masonry layouts' item$/;"	S
+Custom theme	themes/hugo-theme-dream/docs/custom.md	/^# Custom theme$/;"	c
+Dark Mode	themes/hugo-theme-dream/docs/dark-mode.md	/^# Dark Mode$/;"	c
+Dim background in dark mode	themes/hugo-theme-dream/docs/custom.md	/^### Dim background in dark mode$/;"	S
+Disqus	themes/hugo-theme-dream/docs/social-comments.md	/^## Disqus$/;"	s
+Documentation	themes/hugo-theme-dream/README.md	/^## Documentation$/;"	s
+End	themes/hugo-theme-dream/docs/quick-start.md	/^## End$/;"	s
+Example	themes/hugo-theme-dream/README.md	/^## Example$/;"	s
+Example	themes/hugo-theme-dream/docs/params-configurations.md	/^## Example$/;"	s
+Experimental	themes/hugo-theme-dream/docs/params-configurations.md	/^## Experimental$/;"	s
+Explanation	themes/hugo-theme-dream/docs/highlightjs.md	/^## Explanation$/;"	s
+First, add i18n Support	themes/hugo-theme-dream/docs/quick-start.md	/^## First, add i18n Support$/;"	s
+Highlight.js	themes/hugo-theme-dream/docs/highlightjs.md	/^# Highlight.js$/;"	c
+Installation	themes/hugo-theme-dream/README.md	/^## Installation$/;"	s
+Intro	themes/hugo-theme-dream/README.md	/^## Intro$/;"	s
+JS	themes/hugo-theme-dream/docs/custom.md	/^## JS$/;"	s
+License	themes/hugo-theme-dream/README.md	/^## License$/;"	s
+Major update in 2019-11-10	themes/hugo-theme-dream/README.md	/^## Major update in 2019-11-10$/;"	s
+More describes	themes/hugo-theme-dream/docs/about-page.md	/^## More describes$/;"	s
+Netlify CMS	themes/hugo-theme-dream/docs/netlify-cms.md	/^# Netlify CMS$/;"	c
+Note	themes/hugo-theme-dream/docs/netlify-cms.md	/^## Note$/;"	s
+Note After v1.1.0	themes/hugo-theme-dream/README.md	/^## Note After v1.1.0$/;"	s
+OK, write a post for your blog	themes/hugo-theme-dream/docs/quick-start.md	/^## OK, write a post for your blog$/;"	s
+Oops...You are lost in dream. Don't worry though, click the button below to wake up.	themes/hugo-theme-dream/layouts/404.html	/^      <\/h1>$/;"	h
+Params Configurations	themes/hugo-theme-dream/docs/params-configurations.md	/^# Params Configurations$/;"	c
+Post as Image	themes/hugo-theme-dream/docs/post-as-image.md	/^# Post as Image$/;"	c
+Publish	themes/hugo-theme-dream/README.md	/^## Publish$/;"	s
+Quick Start	themes/hugo-theme-dream/docs/quick-start.md	/^# Quick Start$/;"	c
+Search	themes/hugo-theme-dream/docs/search.md	/^# Search$/;"	c
+Social Comments	themes/hugo-theme-dream/docs/quick-start.md	/^## Social Comments$/;"	s
+Social Comments	themes/hugo-theme-dream/docs/social-comments.md	/^# Social Comments$/;"	c
+Social Links	themes/hugo-theme-dream/docs/params-configurations.md	/^### Social Links$/;"	S
+Summary Images	themes/hugo-theme-dream/docs/summary-images.md	/^# Summary Images$/;"	c
+The next version is out	themes/hugo-theme-dream/README.md	/^## The next version is out$/;"	s
+Tutorials from community	themes/hugo-theme-dream/README.md	/^## Tutorials from community$/;"	s
+Valine	themes/hugo-theme-dream/docs/social-comments.md	/^## Valine$/;"	s
+Website Analytics	themes/hugo-theme-dream/docs/quick-start.md	/^## Website Analytics$/;"	s
+Website Analytics	themes/hugo-theme-dream/docs/website-analytics.md	/^# Website Analytics$/;"	c
+When to use darkNav or dark404	themes/hugo-theme-dream/docs/dark-mode.md	/^## When to use darkNav or dark404$/;"	s
+[1.0.0] - 2019-11-10	themes/hugo-theme-dream/CHANGELOG.md	/^## [1.0.0] - 2019-11-10$/;"	s
+[1.1.0] - 2020-06-24	themes/hugo-theme-dream/CHANGELOG.md	/^## [1.1.0] - 2020-06-24$/;"	s
+[1.2.0] - 2020-07-03	themes/hugo-theme-dream/CHANGELOG.md	/^## [1.2.0] - 2020-07-03$/;"	s
+[1.3.0] - 2020-07-19	themes/hugo-theme-dream/CHANGELOG.md	/^## [1.3.0] - 2020-07-19$/;"	s
+[1.4.0] - 2020-08-24	themes/hugo-theme-dream/CHANGELOG.md	/^## [1.4.0] - 2020-08-24$/;"	s
+[1.5.0] - 2020-10-22	themes/hugo-theme-dream/CHANGELOG.md	/^## [1.5.0] - 2020-10-22$/;"	s
+[1.6.0] - 2021-01-30	themes/hugo-theme-dream/CHANGELOG.md	/^## [1.6.0] - 2021-01-30$/;"	s
+[2.0.0-beta.1] - 2021-05-06	themes/hugo-theme-dream/CHANGELOG.md	/^## [2.0.0-beta.1] - 2021-05-06$/;"	s
+[2.0.0-beta] - 2021-01-31	themes/hugo-theme-dream/CHANGELOG.md	/^## [2.0.0-beta] - 2021-01-31$/;"	s
+app	themes/hugo-theme-dream/docs/index.html	/^    <div id="app"><\/div>$/;"	I
+author	themes/hugo-theme-dream/package.json	/^  "author": "Yue Yang <g1enyy0ung@gmail.com> (https:\/\/g1en.site)",$/;"	s
+author = "g1eny0ung"	themes/hugo-theme-dream/docs/params-configurations.md	/^### author = "g1eny0ung"$/;"	S
+authorlink: https://author.site	themes/hugo-theme-dream/archetypes/posts.md	/^# authorlink: https:\/\/author.site$/;"	c
+avatar = "/me/yy.jpg"	themes/hugo-theme-dream/docs/params-configurations.md	/^### avatar = "\/me\/yy.jpg"$/;"	S
+avatar: /img/author.jpg	themes/hugo-theme-dream/archetypes/posts.md	/^# avatar: \/img\/author.jpg$/;"	c
+background = "#ccc"	themes/hugo-theme-dream/docs/params-configurations.md	/^### background = "#ccc"$/;"	S
+backgroundDark = "black"	themes/hugo-theme-dream/docs/params-configurations.md	/^### backgroundDark = "black"$/;"	S
+backgroundImage = "/me/background.jpg"	themes/hugo-theme-dream/docs/params-configurations.md	/^### backgroundImage = "\/me\/background.jpg"$/;"	S
+backgroundImageDark = "/me/background-dark.jpg"	themes/hugo-theme-dream/docs/params-configurations.md	/^### backgroundImageDark = "\/me\/background-dark.jpg"$/;"	S
+baseURL = "https://g1en.site"	themes/hugo-theme-dream/docs/base-configurations.md	/^### baseURL = "https:\/\/g1en.site"$/;"	S
+body	themes/hugo-theme-dream/static/css/site.css	/^body{background-position:center;background-size:cover}.flip-container{width:100vw;height:100vh;-/;"	s
+categoriesLimitInHeader = 6	themes/hugo-theme-dream/docs/params-configurations.md	/^### categoriesLimitInHeader = 6$/;"	S
+class	themes/hugo-theme-dream/static/css/icomoon.css	/^[class^='icon-'],$/;"	s
+class*	themes/hugo-theme-dream/static/css/icomoon.css	/^[class*=' icon-'] {$/;"	s
+collapseBySummary = true	themes/hugo-theme-dream/docs/params-configurations.md	/^### collapseBySummary = true$/;"	S
+collapsibleTags = true	themes/hugo-theme-dream/docs/params-configurations.md	/^### collapsibleTags = true$/;"	S
+customCSS = ["css/custom.css"]	themes/hugo-theme-dream/docs/params-configurations.md	/^### customCSS = ["css\/custom.css"]$/;"	S
+customJS = []	themes/hugo-theme-dream/docs/params-configurations.md	/^### customJS = []$/;"	S
+customJSBefore = []	themes/hugo-theme-dream/docs/params-configurations.md	/^### customJSBefore = []$/;"	S
+dark404 = true	themes/hugo-theme-dream/docs/params-configurations.md	/^### dark404 = true$/;"	S
+dark404Button = true	themes/hugo-theme-dream/docs/params-configurations.md	/^### dark404Button = true$/;"	S
+darkLinkColor = "darkseagreen"	themes/hugo-theme-dream/docs/params-configurations.md	/^### darkLinkColor = "darkseagreen"$/;"	S
+darkNav = true	themes/hugo-theme-dream/docs/params-configurations.md	/^### darkNav = true$/;"	S
+defaultDark = true	themes/hugo-theme-dream/docs/params-configurations.md	/^### defaultDark = true$/;"	S
+description	themes/hugo-theme-dream/package.json	/^  "description": "Hugo theme named Dream",$/;"	s
+description = "g1eny0ung 的生活记录～"	themes/hugo-theme-dream/docs/params-configurations.md	/^### description = "g1eny0ung 的生活记录～"$/;"	S
+devDependencies	themes/hugo-theme-dream/package.json	/^  "devDependencies": {$/;"	o
+disqus_thread	themes/hugo-theme-dream/layouts/partials/disqus.html	/^<div id="disqus_thread"><\/div>$/;"	I
+draft: true	themes/hugo-theme-dream/archetypes/about.md	/^draft: true$/;"	s
+draft: true	themes/hugo-theme-dream/archetypes/posts.md	/^draft: true$/;"	s
+dream-save-post-as-img	themes/hugo-theme-dream/layouts/_default/single.html	/^  <div class="sixteen wide mobile sixteen wide tablet ten wide computer column markdown-body dre/;"	I
+dream-search	themes/hugo-theme-dream/layouts/partials/search.html	/^<div class="ui segment" id="dream-search">$/;"	I
+enableRobotsTXT = true	themes/hugo-theme-dream/docs/base-configurations.md	/^### enableRobotsTXT = true$/;"	S
+enableSearch = true	themes/hugo-theme-dream/docs/params-configurations.md	/^### enableSearch = true$/;"	S
+favicon = "/favicon.ico"	themes/hugo-theme-dream/docs/params-configurations.md	/^### favicon = "\/favicon.ico"$/;"	S
+fixedNav = true	themes/hugo-theme-dream/docs/params-configurations.md	/^### fixedNav = true$/;"	S
+footerBottomText = ""	themes/hugo-theme-dream/docs/params-configurations.md	/^### footerBottomText = ""$/;"	S
+gulp	themes/hugo-theme-dream/package.json	/^    "gulp": "^4.0.2",$/;"	s	object:devDependencies
+gulp-babel	themes/hugo-theme-dream/package.json	/^    "gulp-babel": "^8.0.0",$/;"	s	object:devDependencies
+gulp-dart-sass	themes/hugo-theme-dream/package.json	/^    "gulp-dart-sass": "^1.0.2",$/;"	s	object:devDependencies
+gulp-uglify	themes/hugo-theme-dream/package.json	/^    "gulp-uglify": "^3.0.2"$/;"	s	object:devDependencies
+hasCJKLanguage = true	themes/hugo-theme-dream/docs/base-configurations.md	/^### hasCJKLanguage = true$/;"	S
+hasTwitterEmbed = true	themes/hugo-theme-dream/docs/params-configurations.md	/^### hasTwitterEmbed = true$/;"	S
+headerBottomText = ""	themes/hugo-theme-dream/docs/params-configurations.md	/^### headerBottomText = ""$/;"	S
+headerTitle = "g1eny0ung 的博客"	themes/hugo-theme-dream/docs/params-configurations.md	/^### headerTitle = "g1eny0ung 的博客"$/;"	S
+highlightjs = true	themes/hugo-theme-dream/docs/highlightjs.md	/^### highlightjs = true$/;"	S
+highlightjs = true	themes/hugo-theme-dream/docs/params-configurations.md	/^### highlightjs = true$/;"	S
+highlightjsCDN	themes/hugo-theme-dream/docs/highlightjs.md	/^### highlightjsCDN$/;"	S
+highlightjsExtraLanguages = ["ocaml"]	themes/hugo-theme-dream/docs/highlightjs.md	/^### highlightjsExtraLanguages = ["ocaml"]$/;"	S
+highlightjsTheme = "gruvbox-light"	themes/hugo-theme-dream/docs/highlightjs.md	/^### highlightjsTheme = "gruvbox-light"$/;"	S
+highlightjsThemeDark = "gruvbox-dark"	themes/hugo-theme-dream/docs/highlightjs.md	/^### highlightjsThemeDark = "gruvbox-dark"$/;"	S
+i18n	themes/hugo-theme-dream/docs/i18n.md	/^# i18n$/;"	c
+icomoon	themes/hugo-theme-dream/static/css/fonts/icomoon.svg	/^<font id="icomoon" horiz-adv-x="1024">$/;"	i
+images = [""]	themes/hugo-theme-dream/docs/params-configurations.md	/^### images = [""]$/;"	S
+images:	themes/hugo-theme-dream/archetypes/posts.md	/^# images:$/;"	c
+inject functions into theme switching	themes/hugo-theme-dream/docs/custom.md	/^### inject functions into theme switching$/;"	S
+jsDate	themes/hugo-theme-dream/docs/params-configurations.md	/^### jsDate$/;"	S
+jsDateFormat	themes/hugo-theme-dream/docs/params-configurations.md	/^### jsDateFormat$/;"	S
+languageCode = "zh-Hans"	themes/hugo-theme-dream/docs/base-configurations.md	/^### languageCode = "zh-Hans"$/;"	S
+license	themes/hugo-theme-dream/package.json	/^  "license": "MIT",$/;"	s
+linkColor = "seagreen"	themes/hugo-theme-dream/docs/params-configurations.md	/^### linkColor = "seagreen"$/;"	S
+maxTags = 5	themes/hugo-theme-dream/docs/params-configurations.md	/^### maxTags = 5$/;"	S
+motto = "与其感慨路难行，不如马上出发。"	themes/hugo-theme-dream/docs/params-configurations.md	/^### motto = "与其感慨路难行，不如马上出发。"$/;"	S
+name	themes/hugo-theme-dream/package.json	/^  "name": "hugo-theme-dream",$/;"	s
+nolastmod: true	themes/hugo-theme-dream/archetypes/posts.md	/^# nolastmod: true$/;"	c
+private	themes/hugo-theme-dream/package.json	/^  "private": true,$/;"	b
+prod	themes/hugo-theme-dream/package.json	/^    "prod": "gulp prod",$/;"	s	object:scripts
+repository	themes/hugo-theme-dream/package.json	/^  "repository": "https:\/\/github.com\/g1eny0ung\/hugo-theme-dream.git",$/;"	s
+reversePostAndAside = true	themes/hugo-theme-dream/docs/params-configurations.md	/^### reversePostAndAside = true$/;"	S
+rss = true	themes/hugo-theme-dream/docs/params-configurations.md	/^### rss = true$/;"	S
+scripts	themes/hugo-theme-dream/package.json	/^  "scripts": {$/;"	o
+shareInAside = true	themes/hugo-theme-dream/docs/params-configurations.md	/^### shareInAside = true$/;"	S
+showSummaryCoverInPost = true	themes/hugo-theme-dream/docs/params-configurations.md	/^### showSummaryCoverInPost = true$/;"	S
+siteStartYear = 2016	themes/hugo-theme-dream/docs/params-configurations.md	/^### siteStartYear = 2016$/;"	S
+title = "g1eny0ung 的博客"	themes/hugo-theme-dream/docs/base-configurations.md	/^### title = "g1eny0ung 的博客"$/;"	S
+utterances	themes/hugo-theme-dream/docs/social-comments.md	/^## utterances$/;"	s
+utterancesRepo = "g1eny0ung/g1eny0ung.github.io"	themes/hugo-theme-dream/docs/params-configurations.md	/^### utterancesRepo = "g1eny0ung\/g1eny0ung.github.io"$/;"	S
+valine = true	themes/hugo-theme-dream/docs/params-configurations.md	/^### valine = true$/;"	S
+vcomments	themes/hugo-theme-dream/layouts/_default/single.html	/^      <div id="vcomments"><\/div>$/;"	I
+version	themes/hugo-theme-dream/package.json	/^  "version": "2.0.0",$/;"	s
+watch	themes/hugo-theme-dream/package.json	/^    "watch": "gulp watch"$/;"	s	object:scripts
+{{ .Key }}	themes/hugo-theme-dream/layouts/posts/section.html	/^    <h3 class="ui header">{{ .Key }}<\/h3>$/;"	j
+{{ .Page.Title }}&nbsp;{{- T "article" .Count -}}	themes/hugo-theme-dream/layouts/categories/terms.html	/^    <\/h3>$/;"	j
+{{ .Page.Title }}&nbsp;{{- T "article" .Count -}}	themes/hugo-theme-dream/layouts/tags/terms.html	/^        <\/h3>$/;"	j
+{{ .Title }}	themes/hugo-theme-dream/layouts/_default/summary.html	/^    <\/h2>$/;"	i
+{{ .Title }} {{ .Content }}	themes/hugo-theme-dream/layouts/posts/section.html	/^    <\/h2>$/;"	i
+{{- .Title -}} @ {{ if isset .Params "author" }} {{ if isset .Params "authorlink" }} {{ .Params.author }} {{ else }} {{ .Params.author }} {{ end }} {{ else }} {{ .Site.Params.author }} {{ end }} | {{ if .Site.Params.Experimental.jsDate }} {{ .Date.Format "2006-01-02T15:04:05Z07:00" }} {{ else }} {{ if eq .Site.Language.Lang "zh" }} {{ index .Site.Data.zh.Weekday (printf "%d" .Date.Weekday) }}，{{ index .Site.Data.zh.Month (printf "%d" .Date.Month) }} {{ .Date.Day }} 日，{{ .Date.Year }} 年 {{ else if eq .Site.Language.Lang "es" }} {{ index .Site.Data.es.Weekday (printf "%d" .Date.Weekday) }}, {{ .Date.Day }} de {{ index .Site.Data.es.Month (printf "%d" .Date.Month) }} de {{ .Date.Year }} {{ else if eq .Site.Language.Lang "pt" }} {{ index .Site.Data.pt.Weekday (printf "%d" .Date.Weekday) }}, {{ .Date.Day }} de {{ index .Site.Data.pt.Month (printf "%d" .Date.Month) }} de {{ .Date.Year }} {{ else if eq .Site.Language.Lang "fr" }} {{ index .Site.Data.fr.Weekday (printf "%d" .Date.Weekday) }} {{ .Date.Day }} {{ index .Site.Data.fr.Month (printf "%d" .Date.Month) }} {{ .Date.Year }} {{ else }} {{ .Date.Format "Monday, Jan 2, 2006" }} {{ end }} {{ end }} | {{ .ReadingTime }}{{ i18n "minuteRead" .ReadingTime }} {{ if ne .Params.nolastmod true }} | {{ i18n "updateAt" }} {{ if .Site.Params.Experimental.jsDate }} {{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }} {{ else }} {{ if eq .Site.Language.Lang "zh" }} {{ index .Site.Data.zh.Weekday (printf "%d" .Lastmod.Weekday) }}，{{ index .Site.Data.zh.Month (printf "%d" .Lastmod.Month) }} {{ .Lastmod.Day }} 日，{{ .Lastmod.Year }} 年 {{ else if eq .Site.Language.Lang "es" }} {{ index .Site.Data.es.Weekday (printf "%d" .Lastmod.Weekday) }}, {{ .Lastmod.Day }} de {{ index .Site.Data.es.Month (printf "%d" .Lastmod.Month) }} de {{ .Lastmod.Year }} {{ else if eq .Site.Language.Lang "pt" }} {{ index .Site.Data.pt.Weekday (printf "%d" .Lastmod.Weekday) }}, {{ .Lastmod.Day }} de {{ index .Site.Data.pt.Month (printf "%d" .Lastmod.Month) }} de {{ .Lastmod.Year }} {{ else if eq .Site.Language.Lang "fr" }} {{ index .Site.Data.fr.Weekday (printf "%d" .Date.Weekday) }} {{ .Date.Day }} {{ index .Site.Data.fr.Month (printf "%d" .Date.Month) }} {{ .Date.Year }} {{ else }} {{ .Lastmod.Format "Monday, Jan 2, 2006" }} {{ end }} {{ end }} {{ end }} {{ if not $shareInAside }} {{ partial "share.html" . }} {{ end }}	themes/hugo-theme-dream/layouts/_default/single.html	/^        <\/h1>$/;"	h
+{{- T "allCategories" -}} {{- if eq (len .Data.Terms) 1 -}} {{ T "category" 1 }} {{- else -}} {{ T "category" (len .Data.Terms) }} {{- end -}}	themes/hugo-theme-dream/layouts/categories/terms.html	/^    <\/h2>$/;"	i
+{{- T "allTags" -}} {{- if eq (len .Data.Terms) 1 -}} {{ T "tag" 1 }} {{- else -}} {{ T "tag" (len .Data.Terms) }} {{- end -}}	themes/hugo-theme-dream/layouts/tags/terms.html	/^    <\/h2>$/;"	i
+{{- if .Site.Params.headerTitle -}} {{- .Site.Params.headerTitle -}} {{- else -}} Set headerTitle in the config to display {{- end -}} {{- .Site.Params.motto | safeHTML -}}	themes/hugo-theme-dream/layouts/partials/header.html	/^    <\/h1>$/;"	h
+🌱 hugo-theme-dream	themes/hugo-theme-dream/README.md	/^# 🌱 hugo-theme-dream$/;"	c
